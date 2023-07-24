@@ -1,9 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T13:48:16.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.4.0" etag="LAyyi-E5aiK4t3cIAGsI" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T06:41:25.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qu1yV22PLDVMHS4ewzyn" version="21.6.5" type="github">
   <diagram name="第 1 页" id="kbOdk6Lyz25s7205qlWB">
-    <mxGraphModel>
+    <mxGraphModel dx="2150" dy="783" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-3" value="5血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-762" y="95" width="96" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-4" value="1血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-762" y="552" width="96" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-5" value="4血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-759" y="208" width="96" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-6" value="3血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-759" y="326" width="96" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-7" value="2血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-762" y="435" width="96" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-8" value="1号&lt;br&gt;1血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-551" y="95" width="67" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-9" value="2号&lt;br&gt;2血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="95" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-10" value="" style="endArrow=classic;html=1;rounded=0;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-527" y="140" as="sourcePoint" />
+            <mxPoint x="-559" y="206" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-12" value="" style="endArrow=classic;html=1;rounded=0;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-511" y="140" as="sourcePoint" />
+            <mxPoint x="-479" y="206" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-13" value="" style="endArrow=classic;html=1;rounded=0;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-218" y="140" as="sourcePoint" />
+            <mxPoint x="-250" y="206" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-14" value="" style="endArrow=classic;html=1;rounded=0;endSize=5;startSize=5;jumpSize=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-202" y="140" as="sourcePoint" />
+            <mxPoint x="-170" y="206" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-17" value="1号&lt;br&gt;-3血" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="208" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-20" value="2号&lt;br&gt;3血" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-503" y="210" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-23" value="2号&lt;br&gt;4血" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-594" y="326" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-24" value="2号&lt;br&gt;2血" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-594" y="444" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-25" value="2号&lt;br&gt;1血" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-599" y="562" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-565.71" y="260" as="sourcePoint" />
+            <mxPoint x="-566" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-571.71" y="497" as="sourcePoint" />
+            <mxPoint x="-572" y="562" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-565.4200000000001" y="378" as="sourcePoint" />
+            <mxPoint x="-565.71" y="443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-36" value="2号&lt;br&gt;0血" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-507" y="328" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-37" value="1号&lt;br&gt;0血" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-507" y="446" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-512" y="564" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-478.71000000000004" y="262" as="sourcePoint" />
+            <mxPoint x="-479" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-484.71000000000004" y="499" as="sourcePoint" />
+            <mxPoint x="-485" y="564" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3LnFrSma-OGvht5XuCq-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-478.4200000000001" y="380" as="sourcePoint" />
+            <mxPoint x="-478.71000000000004" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
