@@ -79,6 +79,12 @@
         <mxCell id="QFRHChqrzQPd7RxqJ8-l-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.665;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QFRHChqrzQPd7RxqJ8-l-14" target="QFRHChqrzQPd7RxqJ8-l-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QFRHChqrzQPd7RxqJ8-l-36" value="选+60" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1091" y="441" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QFRHChqrzQPd7RxqJ8-l-37" value="不选" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-913" y="441" width="42" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
